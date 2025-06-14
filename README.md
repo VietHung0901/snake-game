@@ -2,8 +2,6 @@
 
 A classic Snake game implementation built with Python and Pygame. This project recreates the nostalgic Snake game with modern graphics and smooth gameplay.
 
-![Snake Game Screenshot](screenshots/gameplay.png)
-
 ## Features
 
 - Smooth and responsive controls
@@ -23,7 +21,7 @@ A classic Snake game implementation built with Python and Pygame. This project r
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/python-snake-game.git
+   git clone https://github.com/VietHung0901/snake-game.git
    cd python-snake-game
    ```
 
